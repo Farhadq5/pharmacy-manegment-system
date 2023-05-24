@@ -1,1 +1,2 @@
-# pharmacy manegment
+# pharmacy manegment 
+ C# WinForms .NET Framework project, I have implemented a privilege system where normal users are restricted from manipulating the employees' data. However, administrators have the ability to perform various operations on the employees' table, including adding, updating, and deleting users. The application is connected to an SQL database, and any changes made by administrators are automatically saved in the database.
